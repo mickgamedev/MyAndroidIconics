@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAndroidIconics</string>
+    <string name="simple_text">Some great text with a {faw-android} font awesome icon and {met-wind} meteocons icons.</string>
+</resources>
